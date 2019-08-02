@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OlxWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/OlxWeb.iml" group="OlxWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OlxWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OlxWeb_main.iml" group="OlxWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OlxWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OlxWeb_test.iml" group="OlxWeb" />
+    </modules>
+  </component>
+</project>
